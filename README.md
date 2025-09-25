@@ -4,4 +4,5 @@ AI self reflection chat bot
 - Can be powered by Ollama.
 - Built with React.
 - Utilizes ollama javaScript library.
-- Built with privacy in mind. 
+- Built with privacy in mind.
+- Connects with Mirrora (Open Source app for emotion journaling)
